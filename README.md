@@ -49,17 +49,17 @@ Ultimately, while overall district scores did decrease slightly across the board
 
 In this exercise, it was important to accurately update the data to reflect the new student numbers without ninth graders from Thomas High School. If not done correctly, the results would not provide for an apples-to-apples comparison and thus any conclusions would likely be flawed. For example, after the reading and math scores were replaced with null values, without also updating for the reduced number of students at Thomas High School, their results would have reflected inaccurate pass percentages as seen here:
 
-[![THS-Before-Replacement.png](https://i.postimg.cc/J0ffHrkN/THS-Before-Replacement.png)](https://postimg.cc/5Qm7ZMpy)  
+[![THS-Before-Replacement.png](https://i.postimg.cc/gcLS7PRW/THS-Before-Replacement.png)](https://postimg.cc/23m7qM2c)  
 
 
 Updated data frame to account for correct student values:  
 
-[![THS-After-Replacement.png](https://i.postimg.cc/L8nyFKgR/THS-After-Replacement.png)](https://postimg.cc/MnJ01LYr)  
+[![THS-After-Replacement.png](https://i.postimg.cc/WzcMKxLN/THS-After-Replacement.png)](https://postimg.cc/Hc3c8ZkR)  
 
 
 Without replacing the “% Passing Math”,”% Passing Reading” and “% Overall Passing” to reflect their true values, Thomas High School would have been ranked as a medium performing school (instead of the second highest performing), and their overall scores would have also negatively skewed results for medium-sized schools (65% vs 91%) as well as scores for charter schools (65% vs 90%) thus clouding the conclusions that can be made when the data is not corrupted (see charts below).
 
-[![School-Size-Results.png](https://i.postimg.cc/Xvy4Jzm6/School-Size-Results.png)](https://postimg.cc/qt09Djp1)  
+[![School-Size-Results.png](https://i.postimg.cc/ZKcr7ffm/School-Size-Results.png)](https://postimg.cc/PPCpNMsV)  
 
 
-[![School-Type-Results.png](https://i.postimg.cc/3R57DZQ4/School-Type-Results.png)](https://postimg.cc/McDgCVTq)
+[![School-Type-Results.png](https://i.postimg.cc/x89XLQVz/School-Type-Results.png)](https://postimg.cc/PpFfkBxX)  
