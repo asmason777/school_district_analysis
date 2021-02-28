@@ -57,6 +57,9 @@ Updated data frame to account for correct student values:
 [![THS-After-Replacement.png](https://i.postimg.cc/L8nyFKgR/THS-After-Replacement.png)](https://postimg.cc/MnJ01LYr)  
 
 
-Without replacing the “% Passing Math”,”% Passing Reading” and “% Overall Passing” to reflect their true values, Thomas High School would have been ranked as a medium performing school (instead of the second highest performing), and their overall scores would have also negatively skewed results for medium-sized schools (65% vs 91%) as well as scores for charter schools (65% vs 90%) thus clouding the conclusions that can be made when the data is not corrupted. 
+Without replacing the “% Passing Math”,”% Passing Reading” and “% Overall Passing” to reflect their true values, Thomas High School would have been ranked as a medium performing school (instead of the second highest performing), and their overall scores would have also negatively skewed results for medium-sized schools (65% vs 91%) as well as scores for charter schools (65% vs 90%) thus clouding the conclusions that can be made when the data is not corrupted (see charts below).
+
+[![School-Size-Results.png](https://i.postimg.cc/Xvy4Jzm6/School-Size-Results.png)](https://postimg.cc/qt09Djp1)  
 
 
+[![School-Type-Results.png](https://i.postimg.cc/3R57DZQ4/School-Type-Results.png)](https://postimg.cc/McDgCVTq)
